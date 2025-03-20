@@ -1,0 +1,150 @@
+2020-12-10 11:13:23.728 [main] INFO  c.s.contactapp.ContactappApplication - Starting ContactappApplication using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 18378 (/home/ghouse/00_Trainings/IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp/target/classes started by ghouse in /home/ghouse/00_Trainings/IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-10 11:13:23.730 [main] DEBUG c.s.contactapp.ContactappApplication - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-10 11:13:23.731 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2020-12-10 11:13:26.234 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 2.872 seconds (JVM running for 3.336)
+2020-12-10 11:13:39.058 [http-nio-9000-exec-1] DEBUG c.s.c.service.ContactServiceImpl - *******Method get contact started*********
+2020-12-10 11:54:00.175 [main] INFO  c.s.contactapp.ContactappApplication - Starting ContactappApplication using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 21824 (/home/ghouse/00_Trainings/IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp/target/classes started by ghouse in /home/ghouse/00_Trainings/IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-10 11:54:00.177 [main] DEBUG c.s.contactapp.ContactappApplication - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-10 11:54:00.178 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2020-12-10 11:55:13.469 [main] INFO  c.s.contactapp.ContactappApplication - Starting ContactappApplication using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 21924 (/home/ghouse/00_Trainings/IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp/target/classes started by ghouse in /home/ghouse/00_Trainings/IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-10 11:55:13.479 [main] DEBUG c.s.contactapp.ContactappApplication - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-10 11:55:13.480 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2020-12-10 11:55:16.019 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 2.968 seconds (JVM running for 3.424)
+2020-12-10 11:55:30.560 [http-nio-9000-exec-1] INFO  c.s.contactapp.aspect.LoggingAspect - ******method started********
+2020-12-10 11:55:30.561 [http-nio-9000-exec-1] DEBUG c.s.contactapp.aspect.LoggingAspect - Method Name : getContacts
+2020-12-10 11:55:30.562 [http-nio-9000-exec-1] DEBUG c.s.contactapp.aspect.LoggingAspect - Method parameters : []
+2020-12-10 11:55:30.562 [http-nio-9000-exec-1] INFO  c.s.contactapp.aspect.LoggingAspect - ******method ended********
+2020-12-10 11:56:53.774 [main] INFO  c.s.contactapp.ContactappApplication - Starting ContactappApplication using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 22115 (/home/ghouse/00_Trainings/IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp/target/classes started by ghouse in /home/ghouse/00_Trainings/IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-10 11:56:53.777 [main] DEBUG c.s.contactapp.ContactappApplication - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-10 11:56:53.778 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2020-12-10 11:56:56.425 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 3.044 seconds (JVM running for 3.511)
+2020-12-10 12:01:49.067 [main] INFO  c.s.contactapp.ContactappApplication - Starting ContactappApplication using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 22434 (/home/ghouse/00_Trainings/IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp/target/classes started by ghouse in /home/ghouse/00_Trainings/IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-10 12:01:49.069 [main] DEBUG c.s.contactapp.ContactappApplication - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-10 12:01:49.070 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2020-12-10 12:01:51.772 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 3.128 seconds (JVM running for 3.626)
+2020-12-10 12:02:06.538 [http-nio-9000-exec-1] INFO  c.s.contactapp.aspect.LoggingAspect - ******method started********
+2020-12-10 12:02:06.540 [http-nio-9000-exec-1] DEBUG c.s.contactapp.aspect.LoggingAspect - Method Name : getContacts
+2020-12-10 12:02:06.540 [http-nio-9000-exec-1] DEBUG c.s.contactapp.aspect.LoggingAspect - Method parameters : []
+2020-12-10 12:02:06.540 [http-nio-9000-exec-1] INFO  c.s.contactapp.aspect.LoggingAspect - ******method ended********
+2020-12-10 12:02:36.494 [http-nio-9000-exec-3] INFO  c.s.contactapp.aspect.LoggingAspect - ******method started********
+2020-12-10 12:02:36.494 [http-nio-9000-exec-3] DEBUG c.s.contactapp.aspect.LoggingAspect - Method Name : getContact
+2020-12-10 12:02:36.495 [http-nio-9000-exec-3] DEBUG c.s.contactapp.aspect.LoggingAspect - Method parameters : [5fcf1a595ce17b27d9bdd38c]
+2020-12-10 12:02:36.495 [http-nio-9000-exec-3] INFO  c.s.contactapp.aspect.LoggingAspect - ******method ended********
+2020-12-10 12:03:52.625 [http-nio-9000-exec-6] INFO  c.s.contactapp.aspect.LoggingAspect - ******method started********
+2020-12-10 12:03:52.625 [http-nio-9000-exec-6] DEBUG c.s.contactapp.aspect.LoggingAspect - Method Name : getContact
+2020-12-10 12:03:52.625 [http-nio-9000-exec-6] DEBUG c.s.contactapp.aspect.LoggingAspect - Method parameters : [5fcf1a595ce17b27d9b23412]
+2020-12-10 12:03:52.625 [http-nio-9000-exec-6] INFO  c.s.contactapp.aspect.LoggingAspect - ******method ended********
+2020-12-10 12:03:52.627 [http-nio-9000-exec-6] INFO  c.s.contactapp.aspect.LoggingAspect - ******After Throwing********
+2020-12-10 12:03:52.627 [http-nio-9000-exec-6] DEBUG c.s.contactapp.aspect.LoggingAspect - Method Name : getContact
+2020-12-10 12:03:52.627 [http-nio-9000-exec-6] DEBUG c.s.contactapp.aspect.LoggingAspect - Method parameters : [5fcf1a595ce17b27d9b23412]
+2020-12-10 12:03:52.628 [http-nio-9000-exec-6] DEBUG c.s.contactapp.aspect.LoggingAspect - Exception occured : com.stackroute.contactapp.service.ContactServiceImpl.getContact(ContactServiceImpl.java:32)
+2020-12-10 12:03:52.628 [http-nio-9000-exec-6] INFO  c.s.contactapp.aspect.LoggingAspect - ******method ended********
+2020-12-15 10:43:42.965 [main] INFO  c.s.c.r.ContactRepositoryTests - Starting ContactRepositoryTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 55846 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 10:43:42.967 [main] DEBUG c.s.c.r.ContactRepositoryTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 10:43:42.970 [main] INFO  c.s.c.r.ContactRepositoryTests - No active profile set, falling back to default profiles: default
+2020-12-15 10:43:44.340 [main] INFO  c.s.c.r.ContactRepositoryTests - Started ContactRepositoryTests in 1.668 seconds (JVM running for 2.704)
+2020-12-15 10:48:00.323 [main] INFO  c.s.c.r.ContactRepositoryTests - Starting ContactRepositoryTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 56069 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 10:48:00.323 [main] DEBUG c.s.c.r.ContactRepositoryTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 10:48:00.326 [main] INFO  c.s.c.r.ContactRepositoryTests - No active profile set, falling back to default profiles: default
+2020-12-15 10:48:01.628 [main] INFO  c.s.c.r.ContactRepositoryTests - Started ContactRepositoryTests in 1.637 seconds (JVM running for 2.609)
+2020-12-15 10:48:44.024 [main] INFO  c.s.c.ContactappApplicationTests - Starting ContactappApplicationTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 56191 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 10:48:44.026 [main] DEBUG c.s.c.ContactappApplicationTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 10:48:44.029 [main] INFO  c.s.c.ContactappApplicationTests - No active profile set, falling back to default profiles: default
+2020-12-15 10:48:48.013 [main] INFO  c.s.c.ContactappApplicationTests - Started ContactappApplicationTests in 4.345 seconds (JVM running for 5.38)
+2020-12-15 10:48:48.371 [main] INFO  c.s.c.r.ContactRepositoryTests - Starting ContactRepositoryTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 56191 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 10:48:48.371 [main] DEBUG c.s.c.r.ContactRepositoryTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 10:48:48.373 [main] INFO  c.s.c.r.ContactRepositoryTests - No active profile set, falling back to default profiles: default
+2020-12-15 10:48:48.956 [main] INFO  c.s.c.r.ContactRepositoryTests - Starting ContactRepositoryTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 56191 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 10:48:48.956 [main] DEBUG c.s.c.r.ContactRepositoryTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 10:48:48.958 [main] INFO  c.s.c.r.ContactRepositoryTests - No active profile set, falling back to default profiles: default
+2020-12-15 10:48:49.751 [main] INFO  c.s.c.r.ContactRepositoryTests - Started ContactRepositoryTests in 0.838 seconds (JVM running for 7.118)
+2020-12-15 10:49:58.044 [main] INFO  c.s.c.ContactappApplicationTests - Starting ContactappApplicationTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 56371 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 10:49:58.045 [main] DEBUG c.s.c.ContactappApplicationTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 10:49:58.048 [main] INFO  c.s.c.ContactappApplicationTests - No active profile set, falling back to default profiles: default
+2020-12-15 10:50:01.643 [main] INFO  c.s.c.ContactappApplicationTests - Started ContactappApplicationTests in 3.779 seconds (JVM running for 4.692)
+2020-12-15 10:50:01.987 [main] INFO  c.s.c.r.ContactRepositoryTests - Starting ContactRepositoryTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 56371 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 10:50:01.987 [main] DEBUG c.s.c.r.ContactRepositoryTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 10:50:01.990 [main] INFO  c.s.c.r.ContactRepositoryTests - No active profile set, falling back to default profiles: default
+2020-12-15 10:50:03.475 [main] INFO  c.s.c.r.ContactRepositoryTests - Starting ContactRepositoryTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 56371 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 10:50:03.475 [main] DEBUG c.s.c.r.ContactRepositoryTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 10:50:03.476 [main] INFO  c.s.c.r.ContactRepositoryTests - No active profile set, falling back to default profiles: default
+2020-12-15 10:50:04.035 [main] INFO  c.s.c.r.ContactRepositoryTests - Started ContactRepositoryTests in 0.581 seconds (JVM running for 7.084)
+2020-12-15 10:52:02.176 [main] INFO  c.s.c.ContactappApplicationTests - Starting ContactappApplicationTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 56813 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 10:52:02.177 [main] DEBUG c.s.c.ContactappApplicationTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 10:52:02.181 [main] INFO  c.s.c.ContactappApplicationTests - No active profile set, falling back to default profiles: default
+2020-12-15 10:52:05.548 [main] INFO  c.s.c.ContactappApplicationTests - Started ContactappApplicationTests in 3.579 seconds (JVM running for 4.373)
+2020-12-15 10:52:05.866 [main] INFO  c.s.c.r.ContactRepositoryTests - Starting ContactRepositoryTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 56813 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 10:52:05.866 [main] DEBUG c.s.c.r.ContactRepositoryTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 10:52:05.868 [main] INFO  c.s.c.r.ContactRepositoryTests - No active profile set, falling back to default profiles: default
+2020-12-15 10:52:06.634 [main] INFO  c.s.c.r.ContactRepositoryTests - Starting ContactRepositoryTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 56813 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 10:52:06.634 [main] DEBUG c.s.c.r.ContactRepositoryTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 10:52:06.635 [main] INFO  c.s.c.r.ContactRepositoryTests - No active profile set, falling back to default profiles: default
+2020-12-15 10:52:07.894 [main] INFO  c.s.c.r.ContactRepositoryTests - Started ContactRepositoryTests in 1.289 seconds (JVM running for 6.719)
+2020-12-15 10:54:30.348 [main] INFO  c.s.c.r.ContactRepositoryTests - Starting ContactRepositoryTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 56975 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 10:54:30.348 [main] DEBUG c.s.c.r.ContactRepositoryTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 10:54:30.351 [main] INFO  c.s.c.r.ContactRepositoryTests - No active profile set, falling back to default profiles: default
+2020-12-15 10:54:31.701 [main] INFO  c.s.c.r.ContactRepositoryTests - Started ContactRepositoryTests in 1.736 seconds (JVM running for 2.689)
+2020-12-15 11:16:55.453 [main] INFO  c.s.c.r.ContactRepositoryTests - Starting ContactRepositoryTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 58057 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 11:16:55.454 [main] DEBUG c.s.c.r.ContactRepositoryTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 11:16:55.458 [main] INFO  c.s.c.r.ContactRepositoryTests - No active profile set, falling back to default profiles: default
+2020-12-15 11:16:57.510 [main] INFO  c.s.c.r.ContactRepositoryTests - Started ContactRepositoryTests in 2.499 seconds (JVM running for 4.439)
+2020-12-15 11:54:22.637 [main] INFO  c.s.c.c.ContactControllerTests - Starting ContactControllerTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 59544 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 11:54:22.638 [main] DEBUG c.s.c.c.ContactControllerTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 11:54:22.640 [main] INFO  c.s.c.c.ContactControllerTests - No active profile set, falling back to default profiles: default
+2020-12-15 11:54:24.255 [main] INFO  c.s.c.c.ContactControllerTests - Started ContactControllerTests in 2.048 seconds (JVM running for 3.293)
+2020-12-15 11:54:48.522 [main] INFO  c.s.c.c.ContactControllerTests - Starting ContactControllerTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 59618 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 11:54:48.523 [main] DEBUG c.s.c.c.ContactControllerTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 11:54:48.526 [main] INFO  c.s.c.c.ContactControllerTests - No active profile set, falling back to default profiles: default
+2020-12-15 11:54:50.183 [main] INFO  c.s.c.c.ContactControllerTests - Started ContactControllerTests in 2.18 seconds (JVM running for 3.278)
+2020-12-15 11:56:34.210 [main] INFO  c.s.c.c.ContactControllerTests - Starting ContactControllerTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 59703 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 11:56:34.211 [main] DEBUG c.s.c.c.ContactControllerTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 11:56:34.215 [main] INFO  c.s.c.c.ContactControllerTests - No active profile set, falling back to default profiles: default
+2020-12-15 11:56:36.054 [main] INFO  c.s.c.c.ContactControllerTests - Started ContactControllerTests in 2.261 seconds (JVM running for 3.607)
+2020-12-15 11:57:04.477 [main] INFO  c.s.c.r.ContactRepositoryTests - Starting ContactRepositoryTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 59786 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 11:57:04.478 [main] DEBUG c.s.c.r.ContactRepositoryTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 11:57:04.483 [main] INFO  c.s.c.r.ContactRepositoryTests - No active profile set, falling back to default profiles: default
+2020-12-15 11:57:07.230 [main] INFO  c.s.c.r.ContactRepositoryTests - Started ContactRepositoryTests in 3.14 seconds (JVM running for 5.558)
+2020-12-15 11:57:08.694 [main] INFO  c.s.c.c.ContactControllerTests - Starting ContactControllerTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 59786 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 11:57:08.695 [main] DEBUG c.s.c.c.ContactControllerTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 11:57:08.696 [main] INFO  c.s.c.c.ContactControllerTests - No active profile set, falling back to default profiles: default
+2020-12-15 11:57:09.752 [main] INFO  c.s.c.c.ContactControllerTests - Started ContactControllerTests in 1.093 seconds (JVM running for 8.08)
+2020-12-15 11:59:15.026 [main] INFO  c.s.c.r.ContactRepositoryTests - Starting ContactRepositoryTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 59918 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 11:59:15.027 [main] DEBUG c.s.c.r.ContactRepositoryTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 11:59:15.035 [main] INFO  c.s.c.r.ContactRepositoryTests - No active profile set, falling back to default profiles: default
+2020-12-15 11:59:17.109 [main] INFO  c.s.c.r.ContactRepositoryTests - Started ContactRepositoryTests in 2.781 seconds (JVM running for 6.166)
+2020-12-15 11:59:17.482 [main] INFO  c.s.c.c.ContactControllerTests - Starting ContactControllerTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 59918 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 11:59:17.482 [main] DEBUG c.s.c.c.ContactControllerTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 11:59:17.484 [main] INFO  c.s.c.c.ContactControllerTests - No active profile set, falling back to default profiles: default
+2020-12-15 11:59:18.793 [main] INFO  c.s.c.c.ContactControllerTests - Started ContactControllerTests in 1.345 seconds (JVM running for 7.851)
+2020-12-15 12:02:41.493 [main] INFO  c.s.c.r.ContactRepositoryTests - Starting ContactRepositoryTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 60100 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 12:02:41.495 [main] DEBUG c.s.c.r.ContactRepositoryTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 12:02:41.498 [main] INFO  c.s.c.r.ContactRepositoryTests - No active profile set, falling back to default profiles: default
+2020-12-15 12:02:43.103 [main] INFO  c.s.c.r.ContactRepositoryTests - Started ContactRepositoryTests in 1.978 seconds (JVM running for 3.412)
+2020-12-15 12:02:43.401 [main] INFO  c.s.c.c.ContactControllerTests - Starting ContactControllerTests using Java 11.0.9.1 on BLR-STR-GHOUSE with PID 60100 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/SpringBoot/contactapp)
+2020-12-15 12:02:43.402 [main] DEBUG c.s.c.c.ContactControllerTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-15 12:02:43.403 [main] INFO  c.s.c.c.ContactControllerTests - No active profile set, falling back to default profiles: default
+2020-12-15 12:02:44.437 [main] INFO  c.s.c.c.ContactControllerTests - Started ContactControllerTests in 1.063 seconds (JVM running for 4.746)
+2020-12-29 00:46:02.225 [main] INFO  c.s.c.r.ContactRepositoryTests - Starting ContactRepositoryTests on BLR-STR-GHOUSE with PID 30338 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication/contactapp)
+2020-12-29 00:46:02.226 [main] DEBUG c.s.c.r.ContactRepositoryTests - Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+2020-12-29 00:46:02.229 [main] INFO  c.s.c.r.ContactRepositoryTests - No active profile set, falling back to default profiles: default
+2020-12-29 00:46:04.197 [main] INFO  c.s.c.r.ContactRepositoryTests - Started ContactRepositoryTests in 2.188 seconds (JVM running for 3.754)
+2020-12-29 00:46:04.485 [main] INFO  c.s.c.c.ContactControllerTests - Starting ContactControllerTests on BLR-STR-GHOUSE with PID 30338 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication/contactapp)
+2020-12-29 00:46:04.485 [main] DEBUG c.s.c.c.ContactControllerTests - Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+2020-12-29 00:46:04.486 [main] INFO  c.s.c.c.ContactControllerTests - No active profile set, falling back to default profiles: default
+2020-12-29 00:46:05.100 [main] INFO  c.s.c.c.ContactControllerTests - Started ContactControllerTests in 0.65 seconds (JVM running for 4.656)
+2020-12-29 00:46:56.750 [main] INFO  c.s.c.r.ContactRepositoryTests - Starting ContactRepositoryTests on BLR-STR-GHOUSE with PID 30566 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication/contactapp)
+2020-12-29 00:46:56.751 [main] DEBUG c.s.c.r.ContactRepositoryTests - Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+2020-12-29 00:46:56.754 [main] INFO  c.s.c.r.ContactRepositoryTests - No active profile set, falling back to default profiles: default
+2020-12-29 00:46:58.285 [main] INFO  c.s.c.r.ContactRepositoryTests - Started ContactRepositoryTests in 1.762 seconds (JVM running for 2.958)
+2020-12-29 00:46:58.538 [main] INFO  c.s.c.c.ContactControllerTests - Starting ContactControllerTests on BLR-STR-GHOUSE with PID 30566 (started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication/contactapp)
+2020-12-29 00:46:58.539 [main] DEBUG c.s.c.c.ContactControllerTests - Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+2020-12-29 00:46:58.540 [main] INFO  c.s.c.c.ContactControllerTests - No active profile set, falling back to default profiles: default
+2020-12-29 00:46:59.252 [main] INFO  c.s.c.c.ContactControllerTests - Started ContactControllerTests in 0.747 seconds (JVM running for 3.926)
+2020-12-31 01:30:25.488 [main] INFO  c.s.contactapp.ContactappApplication - Starting ContactappApplication on BLR-STR-GHOUSE with PID 43605 (/home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/Microservices/contactApplication/contactapp/target/classes started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/Microservices/contactApplication/contactapp)
+2020-12-31 01:30:25.490 [main] DEBUG c.s.contactapp.ContactappApplication - Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+2020-12-31 01:30:25.490 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2020-12-31 01:30:26.243 [main] DEBUG c.s.c.filter.JWTValidationFilter - Filter 'JWTValidationFilter' configured for use
+2020-12-31 01:31:05.210 [main] INFO  c.s.contactapp.ContactappApplication - Starting ContactappApplication on BLR-STR-GHOUSE with PID 43681 (/home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/Microservices/contactApplication/contactapp/target/classes started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/ibm_w11_session_demos/Microservices/contactApplication/contactapp)
+2020-12-31 01:31:05.211 [main] DEBUG c.s.contactapp.ContactappApplication - Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+2020-12-31 01:31:05.212 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2020-12-31 01:31:05.990 [main] DEBUG c.s.c.filter.JWTValidationFilter - Filter 'JWTValidationFilter' configured for use

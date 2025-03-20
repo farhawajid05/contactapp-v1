@@ -1,0 +1,26 @@
+server:
+  port: 9005
+  error:
+    include-stacktrace: on_trace_param
+
+spring:
+  datasource:
+    url: jdbc:mysql://${MYSQL_HOST:localhost}:${MYSQL_PORT:3306}/${MYSQL_DATABASE:contact_cred}
+    username: ${MYSQL_USERNAME:root}
+    password: ${MYSQl_PASSWORD:p@ss}
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+jwt:
+  secret:
+    key: testsecretkey
+# none, validate, update , create
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

@@ -1,0 +1,125 @@
+2020-12-28 22:06:34.720 [main] INFO  c.s.contactapp.ContactappApplication - Starting ContactappApplication on BLR-STR-GHOUSE with PID 22874 (/home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication/contactapp/target/classes started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication)
+2020-12-28 22:06:34.723 [main] DEBUG c.s.contactapp.ContactappApplication - Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+2020-12-28 22:06:34.723 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2020-12-28 22:06:37.635 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 3.243 seconds (JVM running for 3.688)
+2020-12-28 22:11:17.099 [http-nio-9000-exec-4] INFO  c.s.contactapp.aspect.LoggingAspect - ******method started********
+2020-12-28 22:11:17.100 [http-nio-9000-exec-4] DEBUG c.s.contactapp.aspect.LoggingAspect - Method Name : getContacts
+2020-12-28 22:11:17.100 [http-nio-9000-exec-4] DEBUG c.s.contactapp.aspect.LoggingAspect - Method parameters : []
+2020-12-28 22:11:17.100 [http-nio-9000-exec-4] INFO  c.s.contactapp.aspect.LoggingAspect - ******method ended********
+2020-12-28 22:40:36.816 [main] INFO  c.s.contactapp.ContactappApplication - Starting ContactappApplication on BLR-STR-GHOUSE with PID 27363 (/home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication/contactapp/target/classes started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication)
+2020-12-28 22:40:36.818 [main] DEBUG c.s.contactapp.ContactappApplication - Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+2020-12-28 22:40:36.819 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2020-12-28 22:40:39.064 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 2.559 seconds (JVM running for 3.016)
+2020-12-28 22:40:51.516 [http-nio-9000-exec-1] INFO  c.s.contactapp.aspect.LoggingAspect - ******method started********
+2020-12-28 22:40:51.518 [http-nio-9000-exec-1] DEBUG c.s.contactapp.aspect.LoggingAspect - Method Name : getContacts
+2020-12-28 22:40:51.518 [http-nio-9000-exec-1] DEBUG c.s.contactapp.aspect.LoggingAspect - Method parameters : []
+2020-12-28 22:40:51.518 [http-nio-9000-exec-1] INFO  c.s.contactapp.aspect.LoggingAspect - ******method ended********
+2020-12-28 22:44:00.507 [main] INFO  c.s.contactapp.ContactappApplication - Starting ContactappApplication on BLR-STR-GHOUSE with PID 27628 (/home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication/contactapp/target/classes started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication)
+2020-12-28 22:44:00.510 [main] DEBUG c.s.contactapp.ContactappApplication - Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+2020-12-28 22:44:00.510 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2020-12-28 22:44:02.779 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 2.594 seconds (JVM running for 3.032)
+2020-12-28 22:44:07.787 [http-nio-9000-exec-1] INFO  c.s.contactapp.aspect.LoggingAspect - ******method started********
+2020-12-28 22:44:07.789 [http-nio-9000-exec-1] DEBUG c.s.contactapp.aspect.LoggingAspect - Method Name : getContacts
+2020-12-28 22:44:07.789 [http-nio-9000-exec-1] DEBUG c.s.contactapp.aspect.LoggingAspect - Method parameters : []
+2020-12-28 22:44:07.789 [http-nio-9000-exec-1] INFO  c.s.contactapp.aspect.LoggingAspect - ******method ended********
+2020-12-28 22:44:33.003 [main] INFO  c.s.contactapp.ContactappApplication - Starting ContactappApplication on BLR-STR-GHOUSE with PID 27752 (/home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication/contactapp/target/classes started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication)
+2020-12-28 22:44:33.005 [main] DEBUG c.s.contactapp.ContactappApplication - Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+2020-12-28 22:44:33.006 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2020-12-28 22:44:34.316 [main] DEBUG c.s.c.filter.JWTValidationFilter - Filter 'JWTValidationFilter' configured for use
+2020-12-28 22:44:35.327 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 2.678 seconds (JVM running for 3.15)
+2020-12-28 22:46:42.028 [main] INFO  c.s.contactapp.ContactappApplication - Starting ContactappApplication on BLR-STR-GHOUSE with PID 27956 (/home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication/contactapp/target/classes started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication)
+2020-12-28 22:46:42.031 [main] DEBUG c.s.contactapp.ContactappApplication - Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+2020-12-28 22:46:42.031 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2020-12-28 22:46:43.339 [main] DEBUG c.s.c.filter.JWTValidationFilter - Filter 'JWTValidationFilter' configured for use
+2020-12-28 22:46:44.401 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 2.7 seconds (JVM running for 3.098)
+2020-12-28 22:51:10.693 [main] INFO  c.s.contactapp.ContactappApplication - Starting ContactappApplication on BLR-STR-GHOUSE with PID 28488 (/home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication/contactapp/target/classes started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication)
+2020-12-28 22:51:10.695 [main] DEBUG c.s.contactapp.ContactappApplication - Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+2020-12-28 22:51:10.695 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2020-12-28 22:51:12.111 [main] DEBUG c.s.c.filter.JWTValidationFilter - Filter 'JWTValidationFilter' configured for use
+2020-12-28 22:51:13.138 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 2.756 seconds (JVM running for 3.183)
+2020-12-28 22:51:17.853 [http-nio-9000-exec-1] INFO  c.s.contactapp.aspect.LoggingAspect - ******method started********
+2020-12-28 22:51:17.856 [http-nio-9000-exec-1] DEBUG c.s.contactapp.aspect.LoggingAspect - Method Name : getContacts
+2020-12-28 22:51:17.856 [http-nio-9000-exec-1] DEBUG c.s.contactapp.aspect.LoggingAspect - Method parameters : []
+2020-12-28 22:51:17.856 [http-nio-9000-exec-1] INFO  c.s.contactapp.aspect.LoggingAspect - ******method ended********
+2020-12-28 22:55:10.608 [main] INFO  c.s.contactapp.ContactappApplication - Starting ContactappApplication on BLR-STR-GHOUSE with PID 28824 (/home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication/contactapp/target/classes started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication)
+2020-12-28 22:55:10.610 [main] DEBUG c.s.contactapp.ContactappApplication - Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+2020-12-28 22:55:10.611 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2020-12-28 22:55:11.918 [main] DEBUG c.s.c.filter.JWTValidationFilter - Filter 'JWTValidationFilter' configured for use
+2020-12-28 22:55:12.973 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 2.684 seconds (JVM running for 3.097)
+2020-12-28 22:55:17.942 [http-nio-9000-exec-1] INFO  c.s.contactapp.aspect.LoggingAspect - ******method started********
+2020-12-28 22:55:17.943 [http-nio-9000-exec-1] DEBUG c.s.contactapp.aspect.LoggingAspect - Method Name : getContacts
+2020-12-28 22:55:17.943 [http-nio-9000-exec-1] DEBUG c.s.contactapp.aspect.LoggingAspect - Method parameters : []
+2020-12-28 22:55:17.944 [http-nio-9000-exec-1] INFO  c.s.contactapp.aspect.LoggingAspect - ******method ended********
+2020-12-28 22:55:21.293 [http-nio-9000-exec-2] INFO  c.s.contactapp.aspect.LoggingAspect - ******method started********
+2020-12-28 22:55:21.293 [http-nio-9000-exec-2] DEBUG c.s.contactapp.aspect.LoggingAspect - Method Name : getContacts
+2020-12-28 22:55:21.293 [http-nio-9000-exec-2] DEBUG c.s.contactapp.aspect.LoggingAspect - Method parameters : []
+2020-12-28 22:55:21.293 [http-nio-9000-exec-2] INFO  c.s.contactapp.aspect.LoggingAspect - ******method ended********
+2020-12-28 22:56:09.567 [main] INFO  c.s.contactapp.ContactappApplication - Starting ContactappApplication on BLR-STR-GHOUSE with PID 28970 (/home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication/contactapp/target/classes started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication)
+2020-12-28 22:56:09.569 [main] DEBUG c.s.contactapp.ContactappApplication - Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+2020-12-28 22:56:09.570 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2020-12-28 22:56:10.896 [main] DEBUG c.s.c.filter.JWTValidationFilter - Filter 'JWTValidationFilter' configured for use
+2020-12-28 22:56:11.935 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 2.686 seconds (JVM running for 3.103)
+2020-12-28 22:56:16.575 [http-nio-9000-exec-1] INFO  c.s.contactapp.aspect.LoggingAspect - ******method started********
+2020-12-28 22:56:16.576 [http-nio-9000-exec-1] DEBUG c.s.contactapp.aspect.LoggingAspect - Method Name : getContacts
+2020-12-28 22:56:16.576 [http-nio-9000-exec-1] DEBUG c.s.contactapp.aspect.LoggingAspect - Method parameters : []
+2020-12-28 22:56:16.576 [http-nio-9000-exec-1] INFO  c.s.contactapp.aspect.LoggingAspect - ******method ended********
+2020-12-29 00:43:31.627 [main] INFO  c.s.contactapp.ContactappApplication - Starting ContactappApplication on BLR-STR-GHOUSE with PID 30049 (/home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication/contactapp/target/classes started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication)
+2020-12-29 00:43:31.629 [main] DEBUG c.s.contactapp.ContactappApplication - Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+2020-12-29 00:43:31.631 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2020-12-29 00:43:32.958 [main] DEBUG c.s.c.filter.JWTValidationFilter - Filter 'JWTValidationFilter' configured for use
+2020-12-29 00:43:33.974 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 2.691 seconds (JVM running for 3.094)
+2020-12-31 01:24:58.824 [main] INFO  c.s.contactapp.ContactappApplication - Starting ContactappApplication on BLR-STR-GHOUSE with PID 42244 (/home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication/contactapp/target/classes started by ghouse in /home/ghouse/00_Trainings/01_IBM_Wave11_Sep_2020/pr/Microservices/contactApplication)
+2020-12-31 01:24:58.855 [main] DEBUG c.s.contactapp.ContactappApplication - Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+2020-12-31 01:24:58.856 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2020-12-31 01:25:00.274 [main] DEBUG c.s.c.filter.JWTValidationFilter - Filter 'JWTValidationFilter' configured for use
+2020-12-31 01:25:01.411 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 2.916 seconds (JVM running for 3.445)
+2021-01-05 11:06:05.479 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2021-01-05 11:06:07.391 [main] DEBUG c.s.c.filter.JWTValidationFilter - Filter 'JWTValidationFilter' configured for use
+2021-01-05 11:06:10.082 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 5.64 seconds (JVM running for 6.315)
+2021-01-05 11:07:10.173 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2021-01-05 11:07:11.773 [main] DEBUG c.s.c.filter.JWTValidationFilter - Filter 'JWTValidationFilter' configured for use
+2021-01-05 11:07:14.153 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 5.017 seconds (JVM running for 5.555)
+2021-01-05 11:07:45.793 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2021-01-05 11:07:47.388 [main] DEBUG c.s.c.filter.JWTValidationFilter - Filter 'JWTValidationFilter' configured for use
+2021-01-05 11:07:49.836 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 5.029 seconds (JVM running for 5.619)
+2021-01-05 11:37:26.436 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2021-01-05 11:37:28.050 [main] DEBUG c.s.c.filter.JWTValidationFilter - Filter 'JWTValidationFilter' configured for use
+2021-01-05 11:37:30.501 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 5.117 seconds (JVM running for 5.655)
+2021-01-05 11:37:42.556 [http-nio-9000-exec-1] INFO  c.s.contactapp.aspect.LoggingAspect - ******method started********
+2021-01-05 11:37:42.558 [http-nio-9000-exec-1] DEBUG c.s.contactapp.aspect.LoggingAspect - Method Name : addContact
+2021-01-05 11:37:42.568 [http-nio-9000-exec-1] DEBUG c.s.contactapp.aspect.LoggingAspect - Method parameters : [Contact{contactId='null', name='ghouse', email='mg@mg.com', phone='9999911111', category='office'}]
+2021-01-05 11:37:42.569 [http-nio-9000-exec-1] INFO  c.s.contactapp.aspect.LoggingAspect - ******method ended********
+2021-01-05 11:38:40.505 [http-nio-9000-exec-2] INFO  c.s.contactapp.aspect.LoggingAspect - ******method started********
+2021-01-05 11:38:40.505 [http-nio-9000-exec-2] DEBUG c.s.contactapp.aspect.LoggingAspect - Method Name : getContacts
+2021-01-05 11:38:40.505 [http-nio-9000-exec-2] DEBUG c.s.contactapp.aspect.LoggingAspect - Method parameters : []
+2021-01-05 11:38:40.505 [http-nio-9000-exec-2] INFO  c.s.contactapp.aspect.LoggingAspect - ******method ended********
+2021-01-06 21:02:48.769 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2021-01-06 21:02:50.141 [main] DEBUG c.s.c.filter.JWTValidationFilter - Filter 'JWTValidationFilter' configured for use
+2021-01-06 21:04:00.076 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2021-01-06 21:04:01.423 [main] DEBUG c.s.c.filter.JWTValidationFilter - Filter 'JWTValidationFilter' configured for use
+2021-01-06 21:04:03.435 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 4.252 seconds (JVM running for 4.753)
+2021-01-06 21:05:40.457 [http-nio-9000-exec-1] INFO  c.s.contactapp.aspect.LoggingAspect - ******method started********
+2021-01-06 21:05:40.458 [http-nio-9000-exec-1] DEBUG c.s.contactapp.aspect.LoggingAspect - Method Name : getContacts
+2021-01-06 21:05:40.459 [http-nio-9000-exec-1] DEBUG c.s.contactapp.aspect.LoggingAspect - Method parameters : []
+2021-01-06 21:05:40.459 [http-nio-9000-exec-1] INFO  c.s.contactapp.aspect.LoggingAspect - ******method ended********
+2021-01-06 21:05:55.266 [http-nio-9000-exec-3] INFO  c.s.contactapp.aspect.LoggingAspect - ******method started********
+2021-01-06 21:05:55.267 [http-nio-9000-exec-3] DEBUG c.s.contactapp.aspect.LoggingAspect - Method Name : getContacts
+2021-01-06 21:05:55.267 [http-nio-9000-exec-3] DEBUG c.s.contactapp.aspect.LoggingAspect - Method parameters : []
+2021-01-06 21:05:55.267 [http-nio-9000-exec-3] INFO  c.s.contactapp.aspect.LoggingAspect - ******method ended********
+2021-01-06 21:06:06.991 [http-nio-9000-exec-4] INFO  c.s.contactapp.aspect.LoggingAspect - ******method started********
+2021-01-06 21:06:06.991 [http-nio-9000-exec-4] DEBUG c.s.contactapp.aspect.LoggingAspect - Method Name : getContacts
+2021-01-06 21:06:06.992 [http-nio-9000-exec-4] DEBUG c.s.contactapp.aspect.LoggingAspect - Method parameters : []
+2021-01-06 21:06:06.992 [http-nio-9000-exec-4] INFO  c.s.contactapp.aspect.LoggingAspect - ******method ended********
+2021-01-06 21:07:09.244 [http-nio-9000-exec-6] INFO  c.s.contactapp.aspect.LoggingAspect - ******method started********
+2021-01-06 21:07:09.244 [http-nio-9000-exec-6] DEBUG c.s.contactapp.aspect.LoggingAspect - Method Name : getContacts
+2021-01-06 21:07:09.244 [http-nio-9000-exec-6] DEBUG c.s.contactapp.aspect.LoggingAspect - Method parameters : []
+2021-01-06 21:07:09.244 [http-nio-9000-exec-6] INFO  c.s.contactapp.aspect.LoggingAspect - ******method ended********
+2021-01-06 21:10:45.133 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2021-01-06 21:10:46.518 [main] DEBUG c.s.c.filter.JWTValidationFilter - Filter 'JWTValidationFilter' configured for use
+2021-01-06 21:10:48.635 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 4.515 seconds (JVM running for 5.088)
+2021-01-06 21:12:23.681 [main] INFO  c.s.contactapp.ContactappApplication - No active profile set, falling back to default profiles: default
+2021-01-06 21:12:25.134 [main] DEBUG c.s.c.filter.JWTValidationFilter - Filter 'JWTValidationFilter' configured for use
+2021-01-06 21:12:27.349 [main] INFO  c.s.contactapp.ContactappApplication - Started ContactappApplication in 4.652 seconds (JVM running for 5.149)
+2021-01-07 11:28:25.328 [main] INFO  c.s.c.ContactServiceApplication - No active profile set, falling back to default profiles: default
+2021-01-07 11:28:27.503 [main] DEBUG c.s.c.filter.JWTValidationFilter - Filter 'JWTValidationFilter' configured for use
+2021-01-07 11:28:30.321 [main] INFO  c.s.c.ContactServiceApplication - Started ContactServiceApplication in 6.19 seconds (JVM running for 6.779)

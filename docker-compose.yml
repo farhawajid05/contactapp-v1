@@ -1,0 +1,51 @@
+version: "3.6"
+
+services:
+  userservice:
+    build:
+      ./userservice/
+    image: srghouse/userservice
+    ports:
+    - 9005:9005
+    depends_on:
+      - mysql_db
+    restart: on-failure
+    networks:
+      contact-net:
+
+  contactservice:
+    build:
+      ./contactapp/
+    image: contactservice
+    ports:
+      - 9000:9000
+    depends_on:
+      - mongo_db
+    restart: on-failure
+    networks:
+      contact-net:
+
+  mysql_db:
+    image: mysql:8
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: contactsdb
+    networks:
+      contact-net:
+    restart: on-failure
+    volumes:
+    - contactapp-sql-volume:/var/lib/mysql
+
+  mongo_db:
+    image: mongo:4.2
+    networks:
+      contact-net:
+    restart: on-failure
+    volumes:
+    - contactapp-mongo-volume:/data/db
+
+networks:
+  contact-net:
+volumes:
+  contactapp-sql-volume:
+  contactapp-mongo-volume:
